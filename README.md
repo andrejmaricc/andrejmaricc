@@ -41,4 +41,4 @@
 🔹 **[PortScanner](https://github.com/andrejmaricc/PortScanner)** – A fast and efficient **multi-threaded** port scanner built with Python & PyQt5.  
 
 
-### ⭐ If you like my work, feel free to **star my repositories** and connect with me! 🚀😊
+### ⭐ If you like my work, feel free to **star my repositories**! 🚀😊
