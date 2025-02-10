@@ -40,6 +40,7 @@
 ## 🎯 Latest Projects
 
 🔹 **[FiveM Malware Scanner](https://github.com/andrejmaricc/FiveM-Malware-Scanner)** – An efficient and configurable **multi-threaded** FiveM Malware Scanner 
+
 🔹 **[PortScanner](https://github.com/andrejmaricc/PortScanner)** – A fast and efficient **multi-threaded** port scanner built with Python & PyQt5.  
 
 
