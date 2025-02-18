@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Embedded+Systems+Fan;Always+learning+new+things!">
 </p>
 
+<p align="center">
+  🌍 Check out my website: <a href="https://andrej-maric.de" target="_blank"><b>andrej-maric.de</b></a>
+</p>
+
 ---
 
 ## 🔥 About Me
